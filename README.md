@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navarathan26
+- 👋 Hi, I’m Navarathan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Computer Scinence
 - 
